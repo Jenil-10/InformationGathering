@@ -26,7 +26,7 @@ Open terminal/browser and try execute necessary commands/use url to perform info
 ![image](https://github.com/user-attachments/assets/f6826459-e76b-479e-987e-043ce5588b5c)
 
 ## Finding IP address:
-![image](https://github.com/user-attachments/assets/5d382dd1-0842-4471-8f27-44bb6db919b6)
+"C:\Users\admin\Pictures\Screenshots\Screenshot 2025-03-21 011535.png"
 
 ## Finding Hosting Company
 ![image](https://github.com/user-attachments/assets/d923edcb-2283-49b0-9cbc-404b9ce475fe)
@@ -36,28 +36,37 @@ Open terminal/browser and try execute necessary commands/use url to perform info
 
 
 ## Web server Fingerprint
-![image](https://github.com/user-attachments/assets/8e944f2a-d1c1-4345-9c67-880847f72d59)
+![image](https://github.com/user-attachments/assets/f7386112-044b-4fb0-81c8-784c052f3041)
 
-## nmap
-![image](https://github.com/user-attachments/assets/2d45942f-322c-4d75-a74b-9713bf743343)
+
+## nmap!
+![image](https://github.com/user-attachments/assets/be18b4fc-1917-48f9-8718-5834c52e12a0)
+
+
 
 ## Whatweb
-![image](https://github.com/user-attachments/assets/94faced7-3af9-4fed-853d-419396f26d76)
+![image](https://github.com/user-attachments/assets/a76b6fee-c28a-48d8-97ee-dd9e4bcb3b2f)
+
 
 ## TCP Traceroute
-![image](https://github.com/user-attachments/assets/16af94dd-e038-4203-92e4-3295d57f4ac6)
+![image](https://github.com/user-attachments/assets/3fa6fc74-30cb-4662-8934-b4edd7914f2f)
+
 
 ## UDP Traceroute
-![image](https://github.com/user-attachments/assets/2bd16e91-be60-4b67-9de9-2e206d402339)
+![image](https://github.com/user-attachments/assets/c8de3344-ef0a-4d25-b01c-1bb905a98ee5)
+
 
 ## ICMP Traceroute
-![image](https://github.com/user-attachments/assets/59c3d7ea-b1f0-4b46-a9b7-8aa1532c3ccd)
+![Screenshot 2025-03-21 014031](https://github.com/user-attachments/assets/3957edf3-1231-487e-8999-143a39437b37)
+
 
 ## Whois:
-![image](https://github.com/user-attachments/assets/6e8a62ef-c18c-4f92-aa02-064f64995bce)
+![image](https://github.com/user-attachments/assets/82c35141-3d5b-4f7b-aa2b-34e0a1a89521)
+)
 
 ## nslookup:
-![image](https://github.com/user-attachments/assets/d53c3a81-ec2e-451f-a63b-5ea16d3c90da)
+![Screenshot 2025-03-21 014005](https://github.com/user-attachments/assets/6948f7a7-4d3b-4ef5-89f9-3da0c2d6aecc)
+
 
 ## httprint:
 ![image](https://github.com/user-attachments/assets/793731fd-31b3-46ad-9d21-34052792b30c)
